@@ -16,7 +16,7 @@ permalink: /
 #### ルクツイカセイ
 小説を書くサークルをやっています。詳細は下記ウェブサイトへどうぞ。  
 サークルの中では小説書かず、雑務担当…な気がする。  
-* [ウェブサイト](//rukutsui.wpblog.jp)
+* [ウェブサイト](http://rukutsui.wpblog.jp)
 * [Twitter(@rukutsuikasei)](//twitter.com/rukutsuikasei)
 
 
