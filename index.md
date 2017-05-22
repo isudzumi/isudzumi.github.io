@@ -11,6 +11,22 @@ permalink: /
 大学は文系だけど、技術系が好き。  
 アニメは作画好き。Twitterではこっち系の話題が多い。  
 
+### ソーシャル
+* [Twitter(@isudzumi)](//twitter.com/isudzumi)
+* [はてな](http://profile.hatena.ne.jp/isudzumi/)
+* [Google+](https://plus.google.com/104529693862839265753)
+* [微博](http://www.weibo.com/isudzumi)
+* マストドン
+	* [mstdn.jp](https://mstdn.jp/@isudzumi)
+	* [pawoo.net](https://pawoo.net/@isudzumi)
+	* [friends.nico](https://friends.nico/@isudzumi)
+	* [mstdn-workers.com](https://mstdn-workers.com/@isudzumi)
+
+### その他アカウント
+* [ニコニコ動画](http://www.nicovideo.jp/user/24976249)
+* [GitHub](https://github.com/isudzumi)
+* [sakugabooru](https://sakugabooru.com/user/show/755)
+
 ### 所属サークル
 
 #### ルクツイカセイ
@@ -22,4 +38,3 @@ permalink: /
 
 ### コンタクト
 [isudzumi@gmail.com](mailto:isudzumi@gmail.com)  
-[Twitter(@isudzumi)](//twitter.com/isudzumi)  
