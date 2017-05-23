@@ -10,6 +10,8 @@ permalink: /
 ハンドルネームの由来は誕生魚。6月10日生まれです。  
 大学は文系だけど、技術系が好き。  
 アニメは作画好き。Twitterではこっち系の話題が多い。  
+  
+[欲しいものリスト](http://www.amazon.co.jp/registry/wishlist/25Q0W6VMWH8E9)
 
 ### ソーシャル
 * [Twitter(@isudzumi)](//twitter.com/isudzumi)
@@ -26,6 +28,10 @@ permalink: /
 * [ニコニコ動画](http://www.nicovideo.jp/user/24976249)
 * [GitHub](https://github.com/isudzumi)
 * [sakugabooru](https://sakugabooru.com/user/show/755)
+* [note](https://note.mu/isudzumi)
+
+### 所有するサイト
+* [saku.ga](http://saku.ga)
 
 ### 所属サークル
 
@@ -34,7 +40,6 @@ permalink: /
 サークルの中ではマネジメント兼編集担当な気がする…。  
 * [ウェブサイト](http://rukutsui.wpblog.jp)
 * [Twitter(@rukutsuikasei)](//twitter.com/rukutsuikasei)
-
 
 ### コンタクト
 [isudzumi@gmail.com](mailto:isudzumi@gmail.com)  
