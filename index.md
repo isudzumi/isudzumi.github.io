@@ -10,6 +10,7 @@ permalink: /
 ハンドルネームの由来は誕生魚。6月10日生まれです。  
 大学は文系だけど、技術系が好き。  
 アニメは作画好き。Twitterではこっち系の話題が多い。  
+親指シフター。テキストエディタはVim派。
   
 [欲しいものリスト](http://www.amazon.co.jp/registry/wishlist/25Q0W6VMWH8E9)
 
