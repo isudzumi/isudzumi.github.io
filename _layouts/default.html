@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>{% if page.title %}{{ page.title }} ? {% endif %}{{ site.name }}</title>
+    <title>{% if page.title %}{{ page.title }} - {% endif %}{{ site.name }}</title>
 
     {% include meta.html %}
 
@@ -17,7 +17,7 @@
   </head>
 
   <body>
-    
+
     <div class="intro-header">
         <div class="wrapper-masthead">
          <div class="container">
@@ -33,30 +33,30 @@
            </header>
          </div>
        </div>
-       
+
         <div class="container">
             <div class="space-small"></div>
-           
+
             <div class="centered">
               <ul class="ch-grid">
                 <li>
-                    <div class="ch-item ch-img-1">				
+                    <div class="ch-item ch-img-1">
                         <div class="ch-info-wrap">
                             <div class="ch-info">
                                 <div class="ch-info-front ch-img-1"></div>
                                 <div class="ch-info-back">
                                     <h3>{{site.username}}</h3>
                                     <p></br><a href="https://twitter.com/{{ site.footer-links.twitter }}">View on Twitter</a></p>
-                                </div>	
+                                </div>
                             </div>
                         </div>
                     </div>
                 </li>
             </ul>
         </div>
-             
+
              <div class="space-medium"></div>
-            
+
         </div>
     </div>
 
