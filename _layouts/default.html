@@ -27,7 +27,7 @@
                <p class="site-description">{{ site.description }}</p>
              </div>
              <nav>
-               <a href="{{ site.baseurl }}/">About</a>
+               <a href="{{ site.baseurl }}/about/">About</a>
                <a href="{{ site.baseurl }}/blog/">Blog</a>
              </nav>
            </header>
@@ -45,7 +45,7 @@
                             <div class="ch-info">
                                 <div class="ch-info-front ch-img-1"></div>
                                 <div class="ch-info-back">
-                                    <h3>{{site.username}}</h3>
+                                    <h3>{{ site.author }}</h3>
                                     <p></br><a href="https://twitter.com/{{ site.footer-links.twitter }}">View on Twitter</a></p>
                                 </div>
                             </div>
@@ -69,6 +69,9 @@
         <footer class="footer">
             <div class="svg-icon">
           {% include svg-icons.html %}
+            </div>
+            <div class="copyright">
+              Copyright (c) 2017 {{ site.author_eng }}
             </div>
         </footer>
       </div>
