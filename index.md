@@ -10,6 +10,6 @@ permalink: /
 {% include articles.html %}
 
 ## このサイトについて
-このサイトはGithub Pages上で運用されています。  
+このサイトはGithub Pagesを利用して運用されています。  
 Github上でご覧になる方は[**こちら**](https://github.com/isudzumi/isudzumi.github.io)をご覧ください。  
 ライセンスは[CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)です。  
