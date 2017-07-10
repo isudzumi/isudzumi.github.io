@@ -113,6 +113,21 @@ img {
   max-width: 100%;
 }
 
+table {
+  th {
+    font-weight: 600;
+    padding: 6px 13px;
+    border: 1px solid #989898;
+  }
+  tr:nth-child(2n) {
+    background-color: #f6f8fa;
+  }
+  td {
+    border: 1px solid #989898;
+    padding: 6px 13px;
+  }
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
