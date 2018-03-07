@@ -301,11 +301,35 @@ button.button-primary:focus {
 }
 
 /**
-* Blog
+* default
 */
 
 #main {
+    & > a:link {
+        text-decoration-line: underline;
+    }
+}
+
+/**
+* Blog
+*/
+
+#blog {
     a:link {
         text-decoration-line: underline;
+    }
+}
+
+/**
+* Posts
+*/
+.posts {
+    .entry {
+
+        color: $gray;
+
+        & > h1, h2, h3, h4 {
+            font: inherit;
+        }
     }
 }
