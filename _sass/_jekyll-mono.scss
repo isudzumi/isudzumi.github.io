@@ -300,6 +300,12 @@ button.button-primary:focus {
 	pointer-events: auto;
 }
 
-a:link {
-    text-decoration-line: underline;
+/**
+* Blog
+*/
+
+#main {
+    a:link {
+        text-decoration-line: underline;
+    }
 }
