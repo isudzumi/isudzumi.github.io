@@ -12,7 +12,7 @@ code {
 .highlighter-rouge {
   margin: 0 5px;
 
-  .highlight {
+  &>.highlight {
     background-color: #efefef;
     border: 1px solid #ddd;
     padding: 7px 7px 7px 10px;
